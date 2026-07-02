@@ -9,7 +9,7 @@ function Hero() {
         {/* SISI KIRI: TEKS PERKENALAN FULL STACK */}
         <div className="flex-1 text-center md:text-left flex flex-col gap-4">
           <p className="text-emerald-400 font-mono tracking-widest uppercase text-sm">
-            Halo, Dunia! Nama saya
+            Halo, World! Nama saya
           </p>
           <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight text-slate-100">
             Reza Fadhilah
