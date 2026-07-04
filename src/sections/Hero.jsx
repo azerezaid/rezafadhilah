@@ -9,13 +9,13 @@ function Hero() {
         {/* SISI KIRI: TEKS PERKENALAN FULL STACK */}
         <div className="flex-1 text-center md:text-left flex flex-col gap-4">
           <p className="text-emerald-400 font-mono tracking-widest uppercase text-sm">
-            Halo, World! Nama saya
+            Halo, World! My Name Is
           </p>
           <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight text-slate-100">
             Reza Fadhilah
           </h1>
           <h2 className="text-xl sm:text-2xl font-medium text-slate-400 max-w-xl leading-relaxed">
-            I'm <span className="text-emerald-400 font-semibold">Full Stack Developer</span> As a Full Stack Developer, I ensure your web system runs smoothly behind the scenes and is fully scalable, making it easy to integrate new features or menus anytime.
+            I'm a<span className="text-emerald-400 font-semibold">Full Stack Developer</span> I ensure your web system runs smoothly behind the scenes and is fully scalable, making it easy to integrate new features or menus anytime.
           </h2>
 
           {/* TOMBOL CALL TO ACTION (CTA) */}
