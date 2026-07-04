@@ -24,13 +24,13 @@ function Hero() {
               href="#projects" 
               className="px-6 py-3 bg-emerald-500 text-slate-950 font-semibold rounded-lg hover:bg-emerald-400 transition-all duration-200 shadow-lg shadow-emerald-500/20"
             >
-              Lihat Proyek Saya
+              View My Projets
             </a>
             <a 
               href="#contact" 
               className="px-6 py-3 bg-slate-800 border border-slate-700 text-slate-200 font-semibold rounded-lg hover:bg-slate-700 transition-all duration-200"
             >
-              Hubungi Saya
+              Get In Touch 
             </a>
           </div>
         </div>
