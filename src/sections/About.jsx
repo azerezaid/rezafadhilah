@@ -38,8 +38,7 @@ function About() {
             <p>
               I am a Full Stack Developer passionate about solving complex problems through clean, efficient, and maintainable code."
             </p>
-            <p>
-              Dengan pengalaman mengelola arsitektur <span className="text-slate-200 font-medium">Backend</span> menggunakan Laravel dan Python, serta merancang antarmuka <span className="text-slate-200 font-medium">Frontend</span> yang interaktif dengan React dan Vue, saya mampu menangani siklus pengembangan aplikasi dari hulu ke hilir.
+            <p>With hands-on experience managing end-to-end application lifecycles, I bridge the gap between robust <span className="text-slate-200 font-medium">backend</span> architectures and highly interactive<span className="text-slate-200 font-medium">frontends.</span>"
             </p>
           </div>
 
