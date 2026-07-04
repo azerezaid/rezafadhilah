@@ -36,7 +36,7 @@ function About() {
           {/* SISI KIRI: DESKRIPSI DIRI (5 Kolom) */}
           <div className="lg:col-span-5 space-y-4 text-slate-400 leading-relaxed text-lg text-center md:text-left">
             <p>
-              Saya adalah seorang Full Stack Developer yang bersemangat dalam memecahkan masalah kompleks melalui baris kode yang efisien dan bersih. 
+              I am a Full Stack Developer passionate about solving complex problems through clean, efficient, and maintainable code."
             </p>
             <p>
               Dengan pengalaman mengelola arsitektur <span className="text-slate-200 font-medium">Backend</span> menggunakan Laravel dan Python, serta merancang antarmuka <span className="text-slate-200 font-medium">Frontend</span> yang interaktif dengan React dan Vue, saya mampu menangani siklus pengembangan aplikasi dari hulu ke hilir.
