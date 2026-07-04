@@ -32,9 +32,9 @@ function Contact() {
           
           {/* KOLOM KIRI: INFO HUBUNGI (5 Kolom) */}
           <div className="lg:col-span-5 space-y-6 text-center md:text-left">
-            <h3 className="text-2xl font-bold text-slate-200">Hubungi Langsung</h3>
+            <h3 className="text-2xl font-bold text-slate-200">Get In Touch</h3>
             <p className="text-slate-400 leading-relaxed">
-              Saya sangat terbuka untuk mendiskusikan teknologi, arsitektur full-stack, atau peluang kerja sama baru.
+              I am always open to discussing web technology, full-stack architecture, or new collaboration opportunities.
             </p>
             
             <div className="space-y-4 pt-4 text-sm font-mono text-emerald-400">
