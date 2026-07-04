@@ -22,7 +22,7 @@ function Contact() {
             Let's <span className="text-emerald-400">Collaborate </span>
           </h2>
           <p className="text-slate-400 mt-2 text-lg">
-            Punya ide proyek, tawaran pekerjaan, atau sekadar ingin menyapa? Hubungi saya kapan saja.
+            I am always open to discussing web technology, full-stack architecture, or new collaboration opportunities.
           </p>
           <div className="h-1 w-20 bg-emerald-400 mt-3 mx-auto md:mx-0 rounded-full"></div>
         </div>
