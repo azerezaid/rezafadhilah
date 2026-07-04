@@ -84,7 +84,7 @@ function Contact() {
                   value={formData.message}
                   onChange={(e) => setFormData({ ...formData, message: e.target.value })}
                   className="w-full px-4 py-3 bg-slate-950 border border-slate-800 rounded-lg text-slate-100 focus:outline-none focus:border-emerald-400 font-sans transition-colors resize-none"
-                  placeholder=" Share your project details or drop a message here..."
+                  placeholder="Share your project details or drop a message here..."
                 ></textarea>
               </div>
 
