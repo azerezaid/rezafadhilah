@@ -15,7 +15,7 @@ function Hero() {
             Reza Fadhilah
           </h1>
           <h2 className="text-xl sm:text-2xl font-medium text-slate-400 max-w-xl leading-relaxed">
-            Saya seorang <span className="text-emerald-400 font-semibold">Full Stack Developer</span> yang menjembatani keindahan antarmuka pengguna dengan arsitektur sistem backend yang kokoh, cepat, dan terukur.
+            Saya seorang <span className="text-emerald-400 font-semibold">Full Stack Developer</span> Sebagai Full Stack Developer, saya memastikan sistem web kamu berjalan mulus di balik layar dan siap dikembangkan dengan berbagai penambahan fitur atau menu baru kapan saja
           </h2>
 
           {/* TOMBOL CALL TO ACTION (CTA) */}
