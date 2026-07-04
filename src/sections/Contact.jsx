@@ -19,7 +19,7 @@ function Contact() {
         {/* JUDUL SECTION */}
         <div className="text-center md:text-left mb-16">
           <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-100 tracking-tight">
-            Mari <span className="text-emerald-400">Berkolaborasi</span>
+            Let's <span className="text-emerald-400">Collaborate </span>
           </h2>
           <p className="text-slate-400 mt-2 text-lg">
             Punya ide proyek, tawaran pekerjaan, atau sekadar ingin menyapa? Hubungi saya kapan saja.
