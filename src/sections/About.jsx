@@ -38,7 +38,7 @@ function About() {
             <p>
               I am a Full Stack Developer passionate about solving complex problems through clean, efficient, and maintainable code."
             </p>
-            <p>With hands-on experience managing end-to-end application lifecycles, I bridge the gap between robust <span className="text-slate-200 font-medium">backend</span> architectures and highly interactive<span className="text-slate-200 font-medium">frontends.</span>"
+            <p>With hands-on experience managing end-to-end application lifecycles, I bridge the gap between robust <span className="text-slate-200 font-medium">Backend</span> architectures and highly interactive <span className="text-slate-200 font-medium">Frontends.</span>"
             </p>
           </div>
 
