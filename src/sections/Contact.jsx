@@ -77,7 +77,7 @@ function Contact() {
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-slate-300 mb-2">Pesan</label>
+                <label className="block text-sm font-medium text-slate-300 mb-2">Message</label>
                 <textarea 
                   rows="4" 
                   required
@@ -92,7 +92,7 @@ function Contact() {
                 type="submit" 
                 className="w-full py-3 bg-emerald-500 text-slate-950 font-bold rounded-lg hover:bg-emerald-400 transition-all duration-200 cursor-pointer shadow-lg shadow-emerald-500/10"
               >
-                Kirim Pesan
+                Send Message
               </button>
             </form>
           </div>
