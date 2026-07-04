@@ -44,7 +44,7 @@ function Contact() {
               </div>
               <div className="p-4 bg-slate-900 border border-slate-800 rounded-lg hover:border-emerald-500/30 transition-colors">
                 <span className="text-slate-400 block text-xs uppercase mb-1">Location</span>
-                Indonesia (Remote)
+                Indonesia (Available Worldwide Via Remote)
               </div>
             </div>
           </div>
