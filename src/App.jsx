@@ -1,3 +1,4 @@
+import React, { useEffect, useState } from "react";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Hero from "./sections/Hero"; 
@@ -6,6 +7,18 @@ import Projects from "./sections/Projects";
 import Contact from "./sections/Contact";
 
 function App() {
+  const [isUpworkClient, setIsUpworkClient] = useState(false);
+
+  useEffect(() => {
+    // Membaca ?platform=upwork dari URL browser
+    const queryParams = new URLSearchParams(window.location.search);
+    const platform = queryParams.get('platform');
+
+    if (platform === 'upwork') {
+      setIsUpworkClient(true);
+    }
+  }, []);
+
   return (
     <div className="min-h-screen bg-slate-900 text-white flex flex-col scroll-smooth">
       {/* Header */}
@@ -16,12 +29,13 @@ function App() {
         <Hero />
         <About />
         <Projects />
-        <Contact />
-        {/* Nanti section About, Projects, dll akan ditaruh di bawahnya */}
+        
+        {/* Mengirimkan status Upwork ke komponen Contact */}
+        <Contact isUpworkClient={isUpworkClient} />
       </main>
 
-      {/* Footer */}
-      <Footer />
+      {/* Footer (Juga butuh status Upwork untuk menyembunyikan LinkedIn/Email) */}
+      <Footer isUpworkClient={isUpworkClient} />
     </div>
   );
 }
