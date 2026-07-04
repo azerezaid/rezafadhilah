@@ -10,7 +10,7 @@ function Navbar() {
           {/* Logo / Nama */}
           <div className="flex-shrink-0">
             <a href="#" className="text-xl font-bold tracking-wider text-emerald-400 font-mono">
-              I'M Reza Fadhilah
+              RF
             </a>
           </div>
 
