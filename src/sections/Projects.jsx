@@ -38,10 +38,10 @@ function Projects() {
         {/* JUDUL SECTION */}
         <div className="text-center md:text-left mb-16">
           <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-100 tracking-tight">
-            Proyek <span className="text-emerald-400">Pilihan</span>
+            Featured <span className="text-emerald-400">Projects</span>
           </h2>
           <p className="text-slate-400 mt-2 text-lg">
-            Berikut adalah beberapa aplikasi sistem nyata yang telah saya rancang dan kembangkan.
+            Here are some of the real-world applications I have designed and developed.
           </p>
           <div className="h-1 w-20 bg-emerald-400 mt-3 mx-auto md:mx-0 rounded-full"></div>
         </div>
