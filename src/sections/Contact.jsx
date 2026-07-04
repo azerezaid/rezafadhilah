@@ -44,7 +44,7 @@ function Contact() {
               </div>
               <div className="p-4 bg-slate-900 border border-slate-800 rounded-lg hover:border-emerald-500/30 transition-colors">
                 <span className="text-slate-400 block text-xs uppercase mb-1">Location</span>
-                Indonesia (Available Worldwide Via Remote)
+                Indonesia (Available Worldwide via Remote)
               </div>
             </div>
           </div>
@@ -53,26 +53,26 @@ function Contact() {
           <div className="lg:col-span-7 w-full">
             <form onSubmit={handleSubmit} className="p-8 bg-slate-900 border border-slate-800 rounded-2xl shadow-2xl space-y-5">
               <div>
-                <label className="block text-sm font-medium text-slate-300 mb-2">Nama Kamu</label>
+                <label className="block text-sm font-medium text-slate-300 mb-2">Your Name</label>
                 <input 
                   type="text" 
                   required
                   value={formData.name}
                   onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                   className="w-full px-4 py-3 bg-slate-950 border border-slate-800 rounded-lg text-slate-100 focus:outline-none focus:border-emerald-400 font-sans transition-colors"
-                  placeholder="John Doe"
+                  
                 />
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-slate-300 mb-2">Alamat Email</label>
+                <label className="block text-sm font-medium text-slate-300 mb-2">Email</label>
                 <input 
-                  type="email" 
+                  type="Email Address" 
                   required
                   value={formData.email}
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                   className="w-full px-4 py-3 bg-slate-950 border border-slate-800 rounded-lg text-slate-100 focus:outline-none focus:border-emerald-400 font-sans transition-colors"
-                  placeholder="johndoe@example.com"
+                  
                 />
               </div>
 
@@ -84,7 +84,7 @@ function Contact() {
                   value={formData.message}
                   onChange={(e) => setFormData({ ...formData, message: e.target.value })}
                   className="w-full px-4 py-3 bg-slate-950 border border-slate-800 rounded-lg text-slate-100 focus:outline-none focus:border-emerald-400 font-sans transition-colors resize-none"
-                  placeholder="Tuliskan pesan atau detail proyekmu di sini..."
+                  placeholder=" Share your project details or drop a message here..."
                 ></textarea>
               </div>
 
