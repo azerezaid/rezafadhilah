@@ -24,7 +24,7 @@ function Hero() {
               href="#projects" 
               className="px-6 py-3 bg-emerald-500 text-slate-950 font-semibold rounded-lg hover:bg-emerald-400 transition-all duration-200 shadow-lg shadow-emerald-500/20"
             >
-              View My Projets
+              View My Projects
             </a>
             <a 
               href="#contact" 
