@@ -25,7 +25,7 @@ function About() {
         {/* JUDUL UTAMA SECTION */}
         <div className="text-center md:text-left mb-16">
           <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-100 tracking-tight">
-            Tentang Saya & <span className="text-emerald-400">Keahlian</span>
+            About me &<span className="text-emerald-400"> Tech stack</span>
           </h2>
           <div className="h-1 w-20 bg-emerald-400 mt-3 mx-auto md:mx-0 rounded-full"></div>
         </div>
