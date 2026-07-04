@@ -39,12 +39,12 @@ function Contact() {
             
             <div className="space-y-4 pt-4 text-sm font-mono text-emerald-400">
               <div className="p-4 bg-slate-900 border border-slate-800 rounded-lg hover:border-emerald-500/30 transition-colors">
-                <span className="text-slate-400 block text-xs uppercase mb-1">Email Utama</span>
-                reza@fadhilah.dev
+                <span className="text-slate-400 block text-xs uppercase mb-1">Email</span>
+                rezafadhilah.reza@gmail.com
               </div>
               <div className="p-4 bg-slate-900 border border-slate-800 rounded-lg hover:border-emerald-500/30 transition-colors">
-                <span className="text-slate-400 block text-xs uppercase mb-1">Lokasi Fokus</span>
-                Indonesia (Remote / On-site)
+                <span className="text-slate-400 block text-xs uppercase mb-1">Location</span>
+                Indonesia (Remote)
               </div>
             </div>
           </div>
