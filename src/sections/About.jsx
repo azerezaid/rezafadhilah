@@ -2,7 +2,7 @@ function About() {
   // Data keahlian dikelompokkan agar rapi dan mudah dirawat jika nanti ada tambahan
   const skills = [
     {
-      category: "Frontend Ecosytem",
+      category: "Frontend Ecosystem",
       items: ["React.js", "Vue.js", "JavaScript (ES6+)", "Tailwind CSS"],
       color: "from-cyan-500 to-blue-500",
     },
