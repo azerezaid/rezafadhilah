@@ -98,7 +98,7 @@ function Contact({ isUpworkClient }) {
               Ready to bring your application idea to life? Let's discuss your project requirements directly on Upwork!
             </p>
             <a 
-              href="MASUKKAN_URL_PROFIL_UPWORK_KAMU_DISINI" 
+              href="https://www.upwork.com/freelancers/~0112102d98ec9a7500"
               target="_blank" 
               rel="noreferrer"
               className="inline-block bg-emerald-500 text-slate-950 font-bold px-8 py-4 rounded-lg hover:bg-emerald-400 transition-all duration-200 shadow-lg shadow-emerald-500/10"
